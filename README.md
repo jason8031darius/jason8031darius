@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jason8031darius
+- 👀 I’m interested in drawing and coding
+- 🌱 I’m currently learning js,css and html
+- 📫you can reach me at jasonjddarius@.gmail.com
